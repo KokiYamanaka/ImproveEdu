@@ -2,7 +2,7 @@
 
 **Description**
 
-This notebook, I built a model to predict whether a given competitive math problem is either a algebra or a number theory topic.
+This notebook, I built a model to predict whether a given competitive math problem is either an algebra or a number theory topic.
 2 models are being implemented. A LSTM and a simple neural network.
 Each training data contains problem sentences, category, difficulty, and solutions.
 The dataset contains 7 different categories of math problem and I extracted 2 of those.
