@@ -26,3 +26,9 @@ Many students found difficulty in studying mathematics. Most of the time, the di
 
 **Guides**
 https://www.youtube.com/watch?v=VMj-3S1tku0&t=17s
+<br>
+<br>
+![1661218166234](https://user-images.githubusercontent.com/107101940/186054245-71ceeacf-be9b-4479-a5b2-b9a83dc65018.jpg)
+![1661218166237](https://user-images.githubusercontent.com/107101940/186054247-99a6c0e5-4af2-4741-8ae9-c4c8a7f85d1f.jpg)
+
+ 
