@@ -23,3 +23,6 @@ Many students found difficulty in studying mathematics. Most of the time, the di
 
 **Dataset obtained from**: 
 <br> https://github.com/hendrycks/math
+
+**Guides**
+https://www.youtube.com/watch?v=VMj-3S1tku0&t=17s
