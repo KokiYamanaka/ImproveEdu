@@ -1,4 +1,4 @@
-Description
+**Description**
 
 This notebook, I built a model to predict whether a given competitive math problem is either a algebra or a number theory topic.
 2 models are being implemented. A LSTM and a simple neural network.
@@ -6,7 +6,7 @@ Each training data contains problem sentences, category, difficulty, and solutio
 The dataset contains 7 different categories of math problem and I extracted 2 of those.
 we will use math problem sentences as our x input and the category as our y output label.
 
-Problem motivation :
+**Problem motivation **:
 
 Many students found difficulty in studying mathematics. Most of the time, the difficulty happends because they do not know where or what to review when facing a math assignment. Thus, by tagging the topic on a math question they're facing to solve, it will improve the process of reviewing their materials.
 
