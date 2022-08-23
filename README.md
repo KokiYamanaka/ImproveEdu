@@ -6,7 +6,7 @@ Each training data contains problem sentences, category, difficulty, and solutio
 The dataset contains 7 different categories of math problem and I extracted 2 of those.
 we will use math problem sentences as our x input and the category as our y output label.
 
-**Problem motivation **:
+**Problem motivation**:
 
 Many students found difficulty in studying mathematics. Most of the time, the difficulty happends because they do not know where or what to review when facing a math assignment. Thus, by tagging the topic on a math question they're facing to solve, it will improve the process of reviewing their materials.
 
@@ -18,3 +18,6 @@ Many students found difficulty in studying mathematics. Most of the time, the di
     "type": "Counting & Probability",
     "solution": "By the Binomial Theorem applied to $(x+(-1))^9$, this term is $\\binom98x^8(-1)^1=-9x^8$.  The coefficient of this term is $\\boxed{-9}$."
 }
+
+**Dataset obtained from**: 
+https://github.com/hendrycks/math
